@@ -1,0 +1,1 @@
+Project: **Redux Road**, following tasks from Codecademy.
